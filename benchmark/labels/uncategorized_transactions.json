@@ -1,0 +1,541 @@
+[
+  {
+    "transaction_id": "075317b2-32d0-dd94-5227-4d467a9f6b7e",
+    "external_ref": "BANKTXN-000184",
+    "expected_coa_code": "6000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "078d2578-6791-4de1-3c0a-141ccdde69e8",
+    "external_ref": "BANKTXN-000162",
+    "expected_coa_code": "1000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "0a4fdefe-98db-e04d-1094-eb940505ca0c",
+    "external_ref": "BANKTXN-000214",
+    "expected_coa_code": "6800",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "0b2df3f5-4ef3-2cf0-b877-ce10eccf5dfd",
+    "external_ref": "BANKTXN-000019",
+    "expected_coa_code": "6700",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "AMBIGUOUS_MERCHANT"
+  },
+  {
+    "transaction_id": "0c55a4c3-5d6e-a8bf-461b-88b59c8031d8",
+    "external_ref": "BANKTXN-000165",
+    "expected_coa_code": "6000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "0ed8f6bd-3961-63ae-b30e-4b5532c25f31",
+    "external_ref": "BANKTXN-000213",
+    "expected_coa_code": "6500",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "0f9a5bd5-03cc-1fea-1e83-3cfa28840081",
+    "external_ref": "BANKTXN-000194",
+    "expected_coa_code": "6400",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "15811ac4-a4d6-289c-7086-567863aa045c",
+    "external_ref": "BANKTXN-000131",
+    "expected_coa_code": "6700",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "AMBIGUOUS_MERCHANT"
+  },
+  {
+    "transaction_id": "1a95f3a1-6834-6c0d-569b-15b2cb7d7e03",
+    "external_ref": "BANKTXN-000206",
+    "expected_coa_code": "6000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "1b54d510-cece-316c-5581-ac1a2f8ff40a",
+    "external_ref": "BANKTXN-000181",
+    "expected_coa_code": "6700",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "AMBIGUOUS_MERCHANT"
+  },
+  {
+    "transaction_id": "1ba1dbf3-b008-c897-d02c-2cd2661ac9be",
+    "external_ref": "BANKTXN-000196",
+    "expected_coa_code": "6500",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "1c8bfcd4-c242-fe92-cc9b-5fc382b951e8",
+    "external_ref": "BANKTXN-000018",
+    "expected_coa_code": "1000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "1c8de1d9-95e5-fa2e-2311-cc53a267c3af",
+    "external_ref": "BANKTXN-000035",
+    "expected_coa_code": "1010",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "266ce00b-cb8e-f3b1-8f36-2bba334325d9",
+    "external_ref": "BANKTXN-000167",
+    "expected_coa_code": "6000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "2f6e7c8e-599c-8a56-a0b2-bf74de921788",
+    "external_ref": "BANKTXN-000169",
+    "expected_coa_code": "6200",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "3740e676-be97-43d5-05e5-975c64565226",
+    "external_ref": "BANKTXN-000164",
+    "expected_coa_code": "6000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "3b1a6754-ab00-fee7-c747-879a49e62320",
+    "external_ref": "BANKTXN-000210",
+    "expected_coa_code": "6100",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "3bb256f8-7cdb-3911-c15d-e203e5508d60",
+    "external_ref": "BANKTXN-000191",
+    "expected_coa_code": "6100",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "404cbb52-54e7-85e1-d8e0-7a5f49ec72c1",
+    "external_ref": "BANKTXN-000195",
+    "expected_coa_code": "6500",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "4170af9e-3270-7e17-6b60-4485525498ae",
+    "external_ref": "BANKTXN-000069",
+    "expected_coa_code": "1000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "41a221d0-305e-5145-401a-d87de497a71b",
+    "external_ref": "BANKTXN-000211",
+    "expected_coa_code": "6600",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "43905e5b-f6a4-afc8-c707-7776aa1c7f7c",
+    "external_ref": "BANKTXN-000215",
+    "expected_coa_code": "1010",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "45047afa-60f8-41d7-1fc1-5ba11e33ae16",
+    "external_ref": "BANKTXN-000178",
+    "expected_coa_code": "6800",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "50a52a0e-337c-d658-9f06-531d7dabcae3",
+    "external_ref": "BANKTXN-000207",
+    "expected_coa_code": "6200",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "5525ae84-7fa2-38b8-63a9-1174b8e13cdd",
+    "external_ref": "BANKTXN-000161",
+    "expected_coa_code": "1010",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "56765c20-c585-9bd8-3fc5-fcfb8bf77717",
+    "external_ref": "BANKTXN-000129",
+    "expected_coa_code": "1010",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "5879317b-f9b8-1499-9803-6e3649fe1ddc",
+    "external_ref": "BANKTXN-000204",
+    "expected_coa_code": "6000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "5aa65947-7730-2e22-c456-ad285f133278",
+    "external_ref": "BANKTXN-000186",
+    "expected_coa_code": "6000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "60115d35-a57a-be05-abd6-f73ff1e6c114",
+    "external_ref": "BANKTXN-000202",
+    "expected_coa_code": "6300",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "61bfe336-c9da-1429-546a-189caf8fde05",
+    "external_ref": "BANKTXN-000052",
+    "expected_coa_code": "1010",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "73dadf28-0654-6f1b-acbd-7efff9dfbb60",
+    "external_ref": "BANKTXN-000145",
+    "expected_coa_code": "1010",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "76404b9f-860c-eb50-ec67-6f18844401e7",
+    "external_ref": "BANKTXN-000170",
+    "expected_coa_code": "6900",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "768d23f0-ebc0-c055-1c30-11e6caa6f997",
+    "external_ref": "BANKTXN-000212",
+    "expected_coa_code": "6400",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "794f4de2-b35d-2d64-0140-db36b99ba872",
+    "external_ref": "BANKTXN-000185",
+    "expected_coa_code": "6000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "823176a6-c1db-36a5-85c2-46d2d1eb97aa",
+    "external_ref": "BANKTXN-000176",
+    "expected_coa_code": "6500",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "83e7bbc2-4215-babb-d1a3-11a45a465ae3",
+    "external_ref": "BANKTXN-000168",
+    "expected_coa_code": "6200",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "857043e6-a872-1452-fbf5-648791244b66",
+    "external_ref": "BANKTXN-000197",
+    "expected_coa_code": "6500",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "882c0348-f730-e703-3070-240e61292b75",
+    "external_ref": "BANKTXN-000187",
+    "expected_coa_code": "6200",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "89d360fc-1d7c-cf8d-b299-ad97aaf74369",
+    "external_ref": "BANKTXN-000092",
+    "expected_coa_code": "1010",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "8e671084-f5fc-8446-1ff6-1e383ece2643",
+    "external_ref": "BANKTXN-000193",
+    "expected_coa_code": "6600",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "8eb27d99-bc96-fb52-662e-2a6344f6e8f8",
+    "external_ref": "BANKTXN-000146",
+    "expected_coa_code": "1000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "92c1f5d1-7ac1-1d89-d88a-c3a77a7cc2d0",
+    "external_ref": "BANKTXN-000109",
+    "expected_coa_code": "1010",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "93d3686c-6206-8ab8-b985-73fa75434660",
+    "external_ref": "BANKTXN-000163",
+    "expected_coa_code": "6300",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "958c78ba-dc1b-4bc1-ec7a-696afb476270",
+    "external_ref": "BANKTXN-000172",
+    "expected_coa_code": "6600",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "979671ce-8727-159f-fbe0-688d34a76683",
+    "external_ref": "BANKTXN-000216",
+    "expected_coa_code": "1000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "98f99866-db1e-4446-a194-e07e7712139e",
+    "external_ref": "BANKTXN-000199",
+    "expected_coa_code": "1000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "9b1217dc-a4da-e95a-3736-4ccf55d3886e",
+    "external_ref": "BANKTXN-000208",
+    "expected_coa_code": "6200",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "9c9e59e6-2141-f4f8-871c-05ea2335e693",
+    "external_ref": "BANKTXN-000036",
+    "expected_coa_code": "1000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "a2cadf4d-f16e-8ee9-0eff-e697cf941780",
+    "external_ref": "BANKTXN-000173",
+    "expected_coa_code": "6600",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "a41ad95f-6c1f-bbe1-4591-ab3fa7a47ffa",
+    "external_ref": "BANKTXN-000189",
+    "expected_coa_code": "6900",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "a5592100-3570-2aea-1f9b-86aab5dd3d9a",
+    "external_ref": "BANKTXN-000188",
+    "expected_coa_code": "6200",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "a5d76fc6-8abb-0595-4c53-9636758976c2",
+    "external_ref": "BANKTXN-000093",
+    "expected_coa_code": "1000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "ab8c8014-d646-cf28-0a9a-bc74151e778c",
+    "external_ref": "BANKTXN-000068",
+    "expected_coa_code": "1010",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "abfbe32c-ac4d-bf2f-cd77-ae6151c6025d",
+    "external_ref": "BANKTXN-000039",
+    "expected_coa_code": "6000",
+    "duplicate_of_external_ref": "BANKTXN-000038",
+    "difficulty_tag": "DUPLICATE_TRANSACTION"
+  },
+  {
+    "transaction_id": "ad1b6daf-d12e-a650-81b8-96fe3060a29e",
+    "external_ref": "BANKTXN-000094",
+    "expected_coa_code": "6000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "REFUND"
+  },
+  {
+    "transaction_id": "b81e3d3c-19f2-e792-dcb1-17040ae661c6",
+    "external_ref": "BANKTXN-000190",
+    "expected_coa_code": "6100",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "b8dd3f88-4a08-dd16-fcb2-f7ccdcdf7268",
+    "external_ref": "BANKTXN-000070",
+    "expected_coa_code": "6700",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "AMBIGUOUS_MERCHANT"
+  },
+  {
+    "transaction_id": "c2199ab6-31fd-348b-3790-5a63f2fc1422",
+    "external_ref": "BANKTXN-000209",
+    "expected_coa_code": "6900",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "c2585f7c-f6b9-f954-c61c-2d221d00760e",
+    "external_ref": "BANKTXN-000180",
+    "expected_coa_code": "1000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "c445ee08-3e91-b976-27d7-edc54e57522f",
+    "external_ref": "BANKTXN-000183",
+    "expected_coa_code": "6000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "c4da5627-712a-8135-3de3-7dc8bf7ec766",
+    "external_ref": "BANKTXN-000177",
+    "expected_coa_code": "6500",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "c7597437-e70a-2e95-6074-2521d6570469",
+    "external_ref": "BANKTXN-000171",
+    "expected_coa_code": "6600",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "c7fbe35a-7de4-f689-4909-133e8e98ae7a",
+    "external_ref": "BANKTXN-000166",
+    "expected_coa_code": "6000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "c812fc96-6b5f-df52-1a47-64f2d11c88e8",
+    "external_ref": "BANKTXN-000151",
+    "expected_coa_code": "6000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "SUBSCRIPTION_INCREASE"
+  },
+  {
+    "transaction_id": "cbc0c7a4-dcc9-86e4-a4ae-c352467e01cf",
+    "external_ref": "BANKTXN-000192",
+    "expected_coa_code": "6600",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "cc6c23bb-098b-3464-8e8e-7d6d51655f03",
+    "external_ref": "BANKTXN-000203",
+    "expected_coa_code": "6000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "d94a6397-aea4-d3eb-506c-f82544f8fe9b",
+    "external_ref": "BANKTXN-000182",
+    "expected_coa_code": "6300",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "dc8bfac5-12dc-3a16-29e0-222a56593c77",
+    "external_ref": "BANKTXN-000179",
+    "expected_coa_code": "1010",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "e980dd12-d035-13ea-5d49-3cfce4fb88fa",
+    "external_ref": "BANKTXN-000111",
+    "expected_coa_code": "6800",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "UNUSUAL_VENDOR"
+  },
+  {
+    "transaction_id": "e9e070a2-772b-133b-01bc-d84db32016f9",
+    "external_ref": "BANKTXN-000174",
+    "expected_coa_code": "6600",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "ec3b670b-4f49-85de-2b25-099f2eb2f9dc",
+    "external_ref": "BANKTXN-000110",
+    "expected_coa_code": "1000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "f0cc7654-a0d8-27f4-8a06-504e8a77b89b",
+    "external_ref": "BANKTXN-000130",
+    "expected_coa_code": "1000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "f2281a9f-3fab-2456-f1c5-a1d3f5167af9",
+    "external_ref": "BANKTXN-000205",
+    "expected_coa_code": "6000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  },
+  {
+    "transaction_id": "f55a15e7-5c14-1b2d-5a3f-ec57666670e6",
+    "external_ref": "BANKTXN-000198",
+    "expected_coa_code": "1010",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "fac77df5-8499-25a2-91c1-7f0f7c72910c",
+    "external_ref": "BANKTXN-000017",
+    "expected_coa_code": "1010",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "ff2c2879-1b75-ad69-553d-0d9e7a68be6f",
+    "external_ref": "BANKTXN-000053",
+    "expected_coa_code": "1000",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": "INTERNAL_TRANSFER"
+  },
+  {
+    "transaction_id": "ffe3e519-61f3-61d8-847a-f385b5236d32",
+    "external_ref": "BANKTXN-000175",
+    "expected_coa_code": "6400",
+    "duplicate_of_external_ref": null,
+    "difficulty_tag": null
+  }
+]

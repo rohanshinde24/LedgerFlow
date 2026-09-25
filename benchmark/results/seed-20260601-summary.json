@@ -1,0 +1,371 @@
+{
+  "dataset": {
+    "seed": 20260601,
+    "role": "held-out",
+    "frozen_at": "2026-09-24T23:59:13.055899+00:00",
+    "transactions": 73,
+    "payments": 48
+  },
+  "end_to_end_transaction_resolution": {
+    "definition": "correct answers / all labelled uncategorized transactions",
+    "numerator": 69,
+    "denominator": 73,
+    "result": 0.9452,
+    "baseline_majority_class": {
+      "predicts": "6000",
+      "numerator": 15,
+      "denominator": 73,
+      "result": 0.2055
+    }
+  },
+  "categorization_precision": {
+    "definition": "correct / answered (abstentions excluded from both)",
+    "overall": {
+      "numerator": 69,
+      "denominator": 72,
+      "result": 0.9583
+    },
+    "deterministic_path": {
+      "numerator": 44,
+      "denominator": 44,
+      "result": 1.0
+    },
+    "agent_path": {
+      "numerator": 25,
+      "denominator": 28,
+      "result": 0.8929
+    }
+  },
+  "categorization_macro_f1": {
+    "definition": "unweighted mean F1 across account codes present as a true label",
+    "system": {
+      "macro_f1": 0.9091,
+      "labels_in_support": 12,
+      "per_label": {
+        "1000": {
+          "support": 12,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "1010": {
+          "support": 12,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "6000": {
+          "support": 15,
+          "precision": 0.8333,
+          "recall": 1.0,
+          "f1": 0.9091
+        },
+        "6100": {
+          "support": 3,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "6200": {
+          "support": 6,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "6300": {
+          "support": 3,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "6400": {
+          "support": 3,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "6500": {
+          "support": 6,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "6600": {
+          "support": 4,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "6700": {
+          "support": 4,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "6800": {
+          "support": 2,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "6900": {
+          "support": 3,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      }
+    },
+    "baseline_majority_class": {
+      "macro_f1": 0.0284,
+      "labels_in_support": 12,
+      "per_label": {
+        "1000": {
+          "support": 12,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "1010": {
+          "support": 12,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "6000": {
+          "support": 15,
+          "precision": 0.2055,
+          "recall": 1.0,
+          "f1": 0.3409
+        },
+        "6100": {
+          "support": 3,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "6200": {
+          "support": 6,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "6300": {
+          "support": 3,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "6400": {
+          "support": 3,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "6500": {
+          "support": 6,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "6600": {
+          "support": 4,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "6700": {
+          "support": 4,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "6800": {
+          "support": 2,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "6900": {
+          "support": 3,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        }
+      }
+    }
+  },
+  "automation_rate": {
+    "definition": "cases resolved without human intervention / all cases",
+    "numerator": 72,
+    "denominator": 73,
+    "result": 0.9863,
+    "deterministic_path_share": {
+      "numerator": 44,
+      "denominator": 73,
+      "result": 0.6027
+    },
+    "agent_path_share": {
+      "numerator": 29,
+      "denominator": 73,
+      "result": 0.3973
+    },
+    "agent_abstention_rate": {
+      "numerator": 1,
+      "denominator": 29,
+      "result": 0.0345
+    }
+  },
+  "reconciliation": {
+    "definition": "exact allocation-set match against expected invoice numbers",
+    "precision": {
+      "numerator": 18,
+      "denominator": 18,
+      "result": 1.0
+    },
+    "recall": {
+      "numerator": 18,
+      "denominator": 18,
+      "result": 1.0
+    },
+    "baseline_exact_amount_match": {
+      "numerator": 2,
+      "denominator": 18,
+      "result": 0.1111
+    },
+    "scope": {
+      "labelled_payments": 48,
+      "already_applied_excluded": 30,
+      "in_scope_unapplied": 18,
+      "note": "denominator is unapplied payments only; payments already reconciled at dataset generation have no open invoice left to match"
+    }
+  },
+  "escalation_recall": {
+    "definition": "cases the dataset constructed with no recoverable answer that the system escalated / all such cases",
+    "payments": {
+      "numerator": 2,
+      "denominator": 2,
+      "result": 1.0
+    },
+    "transactions": {
+      "numerator": 0,
+      "denominator": 0,
+      "result": null,
+      "note": "every transaction in this dataset has a correct account code, so there is no transaction that genuinely requires a human. Transaction escalation recall is undefined here, and any transaction abstention is a missed answer rather than a correct refusal."
+    }
+  },
+  "latency": {
+    "definition": "wall-clock milliseconds per investigate call, client-side",
+    "all_transactions": {
+      "median_ms": 222.9,
+      "p95_ms": 138095.8,
+      "n": 73
+    },
+    "deterministic_path": {
+      "median_ms": 123.5,
+      "p95_ms": 458.8,
+      "n": 44
+    },
+    "agent_path": {
+      "median_ms": 52176.4,
+      "p95_ms": 212991.5,
+      "n": 29
+    },
+    "reconciliation": {
+      "median_ms": 283.3,
+      "p95_ms": 25915.7,
+      "n": 18
+    }
+  },
+  "agent_iterations": {
+    "definition": "capability (tool) calls per agent-path case",
+    "median_capability_calls": 2,
+    "median_model_calls": 4,
+    "n": 29,
+    "precision_by_capability_call_count": {
+      "1": {
+        "n": 8,
+        "answered": 8,
+        "correct": 8,
+        "precision": 1.0
+      },
+      "2": {
+        "n": 16,
+        "answered": 16,
+        "correct": 16,
+        "precision": 1.0
+      },
+      "4": {
+        "n": 4,
+        "answered": 3,
+        "correct": 0,
+        "precision": 0.0
+      },
+      "6": {
+        "n": 1,
+        "answered": 1,
+        "correct": 1,
+        "precision": 1.0
+      }
+    }
+  },
+  "tokens_and_cost": {
+    "definition": "provider-reported tokens over agent-path cases",
+    "agent_cases": 29,
+    "successfully_resolved_agent_cases": 25,
+    "total_input_tokens": 208998,
+    "total_output_tokens": 10288,
+    "input_tokens_per_resolved_case": 8359.9,
+    "output_tokens_per_resolved_case": 411.5,
+    "usd_cost_per_resolved_case": 0.0,
+    "cost_note": "inference runs locally via Ollama, so marginal cost is zero by construction. Tokens are the meaningful quantity, not dollars."
+  },
+  "errors": {
+    "transactions": 0,
+    "payments": 1
+  },
+  "by_difficulty": {
+    "(untagged)": {
+      "n": 41,
+      "correct": 41,
+      "wrong": 0,
+      "abstained": 0
+    },
+    "AMBIGUOUS_MERCHANT": {
+      "n": 4,
+      "correct": 0,
+      "wrong": 3,
+      "abstained": 1
+    },
+    "DUPLICATE_TRANSACTION": {
+      "n": 1,
+      "correct": 1,
+      "wrong": 0,
+      "abstained": 0
+    },
+    "INTERNAL_TRANSFER": {
+      "n": 24,
+      "correct": 24,
+      "wrong": 0,
+      "abstained": 0
+    },
+    "REFUND": {
+      "n": 1,
+      "correct": 1,
+      "wrong": 0,
+      "abstained": 0
+    },
+    "SUBSCRIPTION_INCREASE": {
+      "n": 1,
+      "correct": 1,
+      "wrong": 0,
+      "abstained": 0
+    },
+    "UNUSUAL_VENDOR": {
+      "n": 1,
+      "correct": 1,
+      "wrong": 0,
+      "abstained": 0
+    }
+  }
+}

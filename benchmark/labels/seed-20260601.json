@@ -1,0 +1,1220 @@
+{
+  "business_id": "3e3fd32b-78f8-2d83-f7c1-1a7bbd7c0521",
+  "frozen_at": "2026-09-24T23:59:13.055899+00:00",
+  "payments": [
+    {
+      "already_matched": false,
+      "amount": "5965.2900",
+      "difficulty_tag": "PARTIAL_PAYMENT",
+      "expected_invoice_numbers": "INV-2025-039",
+      "payer_name": "Brightwater Foods",
+      "payment_id": "0116612f-d7cf-02f6-6db9-011c2ac8a6f5",
+      "received_date": "2025-11-20",
+      "reference": "ACH REF INV-2025-039"
+    },
+    {
+      "already_matched": false,
+      "amount": "9600.0000",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-042",
+      "payer_name": "Brightwater Foods",
+      "payment_id": "092590cc-0789-cec8-c15e-551448708a66",
+      "received_date": "2025-11-02",
+      "reference": "ACH REF INV-2025-042"
+    },
+    {
+      "already_matched": false,
+      "amount": "5619.5600",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-034",
+      "payer_name": "Foxglove Media Group",
+      "payment_id": "0d01d900-27a0-eca0-5902-62b628643496",
+      "received_date": "2025-10-16",
+      "reference": "ACH REF INV-2025-034"
+    },
+    {
+      "already_matched": true,
+      "amount": "10013.8500",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-004",
+      "payer_name": "Halcyon Robotics",
+      "payment_id": "17df8add-9a97-d83c-5747-4f39c2ceab6f",
+      "received_date": "2025-03-18",
+      "reference": "ACH REF INV-2025-004"
+    },
+    {
+      "already_matched": false,
+      "amount": "7450.0000",
+      "difficulty_tag": "MISSING_INVOICE",
+      "expected_invoice_numbers": "NONE",
+      "payer_name": "Brightwater Foods",
+      "payment_id": "180bfebd-c322-2876-0a70-689925789b7c",
+      "received_date": "2025-12-16",
+      "reference": "ACH REF INV-9999-404"
+    },
+    {
+      "already_matched": true,
+      "amount": "2968.4200",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-012",
+      "payer_name": "Evercrest Insurance",
+      "payment_id": "1b2cf982-45ef-1ae3-b60b-28e2ca83a1b8",
+      "received_date": "2025-05-14",
+      "reference": "ACH REF INV-2025-012"
+    },
+    {
+      "already_matched": false,
+      "amount": "10124.3200",
+      "difficulty_tag": "LATE_PAYMENT",
+      "expected_invoice_numbers": "INV-2025-029",
+      "payer_name": "Dunmore Logistics",
+      "payment_id": "21dfc243-5cce-c3d1-2799-452d1ebafc6c",
+      "received_date": "2025-10-15",
+      "reference": "ACH REF INV-2025-029"
+    },
+    {
+      "already_matched": false,
+      "amount": "4625.2500",
+      "difficulty_tag": "LATE_PAYMENT",
+      "expected_invoice_numbers": "INV-2025-032",
+      "payer_name": "Dunmore Logistics",
+      "payment_id": "27ac186a-bc40-5fa0-beb4-b966ce43b516",
+      "received_date": "2025-11-28",
+      "reference": "ACH REF INV-2025-032"
+    },
+    {
+      "already_matched": true,
+      "amount": "5854.6800",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-016",
+      "payer_name": "Evercrest Insurance",
+      "payment_id": "36acaece-625f-fd0c-6ec6-409eb0d24b06",
+      "received_date": "2025-06-10",
+      "reference": "ACH REF INV-2025-016"
+    },
+    {
+      "already_matched": true,
+      "amount": "15338.3700",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-018",
+      "payer_name": "Halcyon Robotics",
+      "payment_id": "39181e2b-69a3-e26b-4ef8-4a25997a4694",
+      "received_date": "2025-06-04",
+      "reference": "ACH REF INV-2025-018"
+    },
+    {
+      "already_matched": false,
+      "amount": "3180.0000",
+      "difficulty_tag": "UNMATCHED_PAYMENT",
+      "expected_invoice_numbers": "NONE",
+      "payer_name": "STRIPE PAYOUTS",
+      "payment_id": "3f4b4742-3665-9e11-8a2b-daa4ffc31393",
+      "received_date": "2025-12-12",
+      "reference": "STRIPE PAYOUT 8842"
+    },
+    {
+      "already_matched": false,
+      "amount": "4223.1000",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-045",
+      "payer_name": "Brightwater Foods",
+      "payment_id": "4048261a-4e86-5e28-ef76-7adf5ebdc5e0",
+      "received_date": "2025-12-19",
+      "reference": "ACH REF INV-2025-045"
+    },
+    {
+      "already_matched": false,
+      "amount": "6816.8200",
+      "difficulty_tag": "CUSTOMER_NAME_VARIATION",
+      "expected_invoice_numbers": "INV-2025-051",
+      "payer_name": "EVERCREST INS AP DEPT",
+      "payment_id": "4497d2cd-0e69-a082-25e4-9d94bb1a9ccb",
+      "received_date": "2025-12-09",
+      "reference": "WIRE CREDIT"
+    },
+    {
+      "already_matched": true,
+      "amount": "1679.2000",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-017",
+      "payer_name": "Ardent Health Partners",
+      "payment_id": "49f20054-4c1a-371e-885a-6a36302d3c96",
+      "received_date": "2025-06-04",
+      "reference": "ACH REF INV-2025-017"
+    },
+    {
+      "already_matched": false,
+      "amount": "8215.2300",
+      "difficulty_tag": "PARTIAL_PAYMENT",
+      "expected_invoice_numbers": "INV-2025-043",
+      "payer_name": "Calder Manufacturing",
+      "payment_id": "4a6bbb2b-c4b0-a06b-0b63-9ca444d27ab9",
+      "received_date": "2025-12-19",
+      "reference": "ACH REF INV-2025-043"
+    },
+    {
+      "already_matched": true,
+      "amount": "5349.5600",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-031",
+      "payer_name": "Halcyon Robotics",
+      "payment_id": "55a71005-c4cf-f98b-6b0c-e3b191166ae0",
+      "received_date": "2025-09-16",
+      "reference": "ACH REF INV-2025-031"
+    },
+    {
+      "already_matched": true,
+      "amount": "6576.9000",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-019",
+      "payer_name": "Brightwater Foods",
+      "payment_id": "56d8fd98-51c4-5213-8c6b-9714388d4871",
+      "received_date": "2025-06-04",
+      "reference": "ACH REF INV-2025-019"
+    },
+    {
+      "already_matched": true,
+      "amount": "9625.1400",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-010",
+      "payer_name": "Halcyon Robotics",
+      "payment_id": "57abc359-8758-7fcc-aa99-4c49826401c9",
+      "received_date": "2025-04-27",
+      "reference": "ACH REF INV-2025-010"
+    },
+    {
+      "already_matched": false,
+      "amount": "22038.2100",
+      "difficulty_tag": "LATE_PAYMENT",
+      "expected_invoice_numbers": "INV-2025-033",
+      "payer_name": "Granite Peak Outfitters",
+      "payment_id": "5d2a5622-5074-6db7-14bf-598ca863f7b0",
+      "received_date": "2025-12-10",
+      "reference": "ACH REF INV-2025-033"
+    },
+    {
+      "already_matched": true,
+      "amount": "11614.7400",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-020",
+      "payer_name": "Granite Peak Outfitters",
+      "payment_id": "630320e1-520c-9bf5-2868-134b972e5b56",
+      "received_date": "2025-06-16",
+      "reference": "ACH REF INV-2025-020"
+    },
+    {
+      "already_matched": true,
+      "amount": "10920.7000",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-007",
+      "payer_name": "Dunmore Logistics",
+      "payment_id": "657708ed-4a61-43f1-da72-da747f9b5ca6",
+      "received_date": "2025-04-13",
+      "reference": "ACH REF INV-2025-007"
+    },
+    {
+      "already_matched": true,
+      "amount": "1212.0300",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-005",
+      "payer_name": "Halcyon Robotics",
+      "payment_id": "6fe50238-296d-9279-8559-a4ce91ffb6a8",
+      "received_date": "2025-03-23",
+      "reference": "ACH REF INV-2025-005"
+    },
+    {
+      "already_matched": true,
+      "amount": "23691.3000",
+      "difficulty_tag": "LATE_PAYMENT",
+      "expected_invoice_numbers": "INV-2025-013",
+      "payer_name": "Dunmore Logistics",
+      "payment_id": "7065f422-127a-b557-be4e-d67e1ca48ae2",
+      "received_date": "2025-06-20",
+      "reference": "ACH REF INV-2025-013"
+    },
+    {
+      "already_matched": true,
+      "amount": "17538.6800",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-026",
+      "payer_name": "Halcyon Robotics",
+      "payment_id": "723dfd0d-b673-5b12-8625-1b07d20fea82",
+      "received_date": "2025-08-15",
+      "reference": "ACH REF INV-2025-026"
+    },
+    {
+      "already_matched": true,
+      "amount": "16376.6600",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-021",
+      "payer_name": "Calder Manufacturing",
+      "payment_id": "76239339-6cb6-b0bc-3a98-c5456c0b7a56",
+      "received_date": "2025-07-03",
+      "reference": "ACH REF INV-2025-021"
+    },
+    {
+      "already_matched": false,
+      "amount": "22478.5100",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-047",
+      "payer_name": "Brightwater Foods",
+      "payment_id": "7d5b24a5-f3e8-1288-1d77-8219d8a5180c",
+      "received_date": "2025-12-12",
+      "reference": "ACH REF INV-2025-047"
+    },
+    {
+      "already_matched": true,
+      "amount": "13071.7400",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-008",
+      "payer_name": "Foxglove Media Group",
+      "payment_id": "8cec6f15-374d-7f45-8df8-d9871647d1b0",
+      "received_date": "2025-04-20",
+      "reference": "ACH REF INV-2025-008"
+    },
+    {
+      "already_matched": true,
+      "amount": "13400.9800",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-027",
+      "payer_name": "Granite Peak Outfitters",
+      "payment_id": "8db17d0a-fb36-65d9-9fb9-a4bb38007675",
+      "received_date": "2025-08-22",
+      "reference": "ACH REF INV-2025-027"
+    },
+    {
+      "already_matched": true,
+      "amount": "8736.8600",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-001",
+      "payer_name": "Evercrest Insurance",
+      "payment_id": "96ab70cc-3c68-ea98-bed0-a6d65dede748",
+      "received_date": "2025-02-04",
+      "reference": "ACH REF INV-2025-001"
+    },
+    {
+      "already_matched": true,
+      "amount": "4423.1400",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-014",
+      "payer_name": "Brightwater Foods",
+      "payment_id": "9ddac42d-136b-d50d-1b37-e9d85db01080",
+      "received_date": "2025-05-24",
+      "reference": "ACH REF INV-2025-014"
+    },
+    {
+      "already_matched": true,
+      "amount": "18484.7600",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-023",
+      "payer_name": "Ardent Health Partners",
+      "payment_id": "9e94187f-c945-affb-85ec-9d07725ec577",
+      "received_date": "2025-07-26",
+      "reference": "ACH REF INV-2025-023"
+    },
+    {
+      "already_matched": false,
+      "amount": "21092.2200",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-038",
+      "payer_name": "Foxglove Media Group",
+      "payment_id": "a0d623c8-ac89-eaec-0392-9ce5083ed0b6",
+      "received_date": "2025-11-09",
+      "reference": "ACH REF INV-2025-038"
+    },
+    {
+      "already_matched": true,
+      "amount": "1364.5000",
+      "difficulty_tag": "PARTIAL_PAYMENT",
+      "expected_invoice_numbers": "INV-2025-030",
+      "payer_name": "Halcyon Robotics",
+      "payment_id": "a13e90ca-2864-3044-43a1-2916af9148e3",
+      "received_date": "2025-09-11",
+      "reference": "ACH REF INV-2025-030"
+    },
+    {
+      "already_matched": true,
+      "amount": "9664.0500",
+      "difficulty_tag": "PARTIAL_PAYMENT",
+      "expected_invoice_numbers": "INV-2025-011",
+      "payer_name": "Ardent Health Partners",
+      "payment_id": "a19faf87-4803-e5d3-2644-9cab64d907d5",
+      "received_date": "2025-04-22",
+      "reference": "ACH REF INV-2025-011"
+    },
+    {
+      "already_matched": true,
+      "amount": "10442.3900",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-025",
+      "payer_name": "Calder Manufacturing",
+      "payment_id": "b20e25ca-e7d6-5a36-9620-3fcbf65c702e",
+      "received_date": "2025-08-26",
+      "reference": "ACH REF INV-2025-025"
+    },
+    {
+      "already_matched": true,
+      "amount": "15434.5500",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-024",
+      "payer_name": "Calder Manufacturing",
+      "payment_id": "c0b0fee4-90ea-6212-c1f0-12bb1b490ea6",
+      "received_date": "2025-07-30",
+      "reference": "ACH REF INV-2025-024"
+    },
+    {
+      "already_matched": true,
+      "amount": "16476.4200",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-006",
+      "payer_name": "Halcyon Robotics",
+      "payment_id": "c1cff269-1d55-b893-4d5b-a88ac1cc05d0",
+      "received_date": "2025-03-11",
+      "reference": "ACH REF INV-2025-006"
+    },
+    {
+      "already_matched": true,
+      "amount": "23563.5100",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-002",
+      "payer_name": "Foxglove Media Group",
+      "payment_id": "ca752d51-6c3e-118d-a785-dcea9163be39",
+      "received_date": "2025-02-15",
+      "reference": "ACH REF INV-2025-002"
+    },
+    {
+      "already_matched": false,
+      "amount": "3890.6800",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-037",
+      "payer_name": "Ardent Health Partners",
+      "payment_id": "ccbe3d4a-1f47-38e1-48a4-73dadb1e4637",
+      "received_date": "2025-11-18",
+      "reference": "ACH REF INV-2025-037"
+    },
+    {
+      "already_matched": false,
+      "amount": "9997.9500",
+      "difficulty_tag": "PARTIAL_PAYMENT",
+      "expected_invoice_numbers": "INV-2025-035",
+      "payer_name": "Dunmore Logistics",
+      "payment_id": "d57d4a12-d96d-84e4-eb97-ad3795fde5f8",
+      "received_date": "2025-10-17",
+      "reference": "ACH REF INV-2025-035"
+    },
+    {
+      "already_matched": true,
+      "amount": "10166.4000",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-003",
+      "payer_name": "Granite Peak Outfitters",
+      "payment_id": "e197a50f-ab25-32f1-bde4-5e79574d763a",
+      "received_date": "2025-02-20",
+      "reference": "ACH REF INV-2025-003"
+    },
+    {
+      "already_matched": false,
+      "amount": "19686.9000",
+      "difficulty_tag": "MULTI_INVOICE_PAYMENT",
+      "expected_invoice_numbers": "INV-2025-048,INV-2025-049",
+      "payer_name": "Calder Manufacturing",
+      "payment_id": "e3d9ccdc-da91-78c9-571b-d161783f7b83",
+      "received_date": "2025-11-27",
+      "reference": "ACH REF MULTIPLE INVOICES"
+    },
+    {
+      "already_matched": true,
+      "amount": "13671.6700",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-022",
+      "payer_name": "Granite Peak Outfitters",
+      "payment_id": "ef4b0fde-03f1-5e3b-4184-6d65c47cbee0",
+      "received_date": "2025-07-02",
+      "reference": "ACH REF INV-2025-022"
+    },
+    {
+      "already_matched": true,
+      "amount": "7087.3500",
+      "difficulty_tag": "PARTIAL_PAYMENT",
+      "expected_invoice_numbers": "INV-2025-009",
+      "payer_name": "Ardent Health Partners",
+      "payment_id": "f29076ec-1cfc-7ba1-4565-353c62989b6c",
+      "received_date": "2025-04-08",
+      "reference": "ACH REF INV-2025-009"
+    },
+    {
+      "already_matched": false,
+      "amount": "15065.9600",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-036",
+      "payer_name": "Evercrest Insurance",
+      "payment_id": "f6c7afa6-f4d1-134c-4d43-d0a858717449",
+      "received_date": "2025-10-10",
+      "reference": "ACH REF INV-2025-036"
+    },
+    {
+      "already_matched": true,
+      "amount": "9287.4400",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-015",
+      "payer_name": "Dunmore Logistics",
+      "payment_id": "f9ab6cb7-baed-41fd-8318-031fb4756435",
+      "received_date": "2025-04-28",
+      "reference": "ACH REF INV-2025-015"
+    },
+    {
+      "already_matched": true,
+      "amount": "9267.7200",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-028",
+      "payer_name": "Dunmore Logistics",
+      "payment_id": "fb712543-5e5b-7e19-72fe-bffbda1a9f31",
+      "received_date": "2025-08-01",
+      "reference": "ACH REF INV-2025-028"
+    },
+    {
+      "already_matched": false,
+      "amount": "5451.4400",
+      "difficulty_tag": null,
+      "expected_invoice_numbers": "INV-2025-050",
+      "payer_name": "Dunmore Logistics",
+      "payment_id": "fee3e71a-9b1e-7c54-2d14-83ebdd328bad",
+      "received_date": "2025-12-05",
+      "reference": "ACH REF INV-2025-050"
+    }
+  ],
+  "role": "held-out",
+  "seed": 20260601,
+  "transactions": [
+    {
+      "amount": "144.0000",
+      "booked_date": "2025-05-12",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Figma",
+      "description": "FIGMA SUBSCRIPTION REFUND",
+      "difficulty_tag": "REFUND",
+      "expected_coa_code": "6000",
+      "transaction_id": "01e55f35-9012-e0a2-bd35-f5f70f7cde55"
+    },
+    {
+      "amount": "-144.0000",
+      "booked_date": "2025-11-03",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Figma",
+      "description": "FIGMA MONTHLY SUBSCRIPTION",
+      "difficulty_tag": null,
+      "expected_coa_code": "6000",
+      "transaction_id": "066edb53-622b-5e6d-a363-3a59fc36ee1e"
+    },
+    {
+      "amount": "-2919.0500",
+      "booked_date": "2025-10-18",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Marta Reyes Design",
+      "description": "CONTRACTOR INVOICE PAYOUT",
+      "difficulty_tag": null,
+      "expected_coa_code": "6100",
+      "transaction_id": "070cd663-7e18-daf6-e46f-c78f160faba4"
+    },
+    {
+      "amount": "5000.0000",
+      "booked_date": "2025-12-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER FROM CHECKING *4417",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1000",
+      "transaction_id": "08230572-747d-a27c-3092-d472957f1d74"
+    },
+    {
+      "amount": "-144.0000",
+      "booked_date": "2025-03-03",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Figma",
+      "description": "FIGMA MONTHLY SUBSCRIPTION",
+      "difficulty_tag": "DUPLICATE_TRANSACTION",
+      "expected_coa_code": "6000",
+      "transaction_id": "09f2e12a-d3df-5290-228c-c83f9c62b481"
+    },
+    {
+      "amount": "-28.5800",
+      "booked_date": "2025-12-22",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Blue Bottle Coffee",
+      "description": "BLUE BOTTLE COFFEE",
+      "difficulty_tag": null,
+      "expected_coa_code": "6500",
+      "transaction_id": "0e8a3f73-6b68-3b75-be92-fa6b77be7427"
+    },
+    {
+      "amount": "5000.0000",
+      "booked_date": "2025-04-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER FROM CHECKING *4417",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1000",
+      "transaction_id": "0ea7ac86-1316-3477-5575-0c4e84bd6564"
+    },
+    {
+      "amount": "-212.6800",
+      "booked_date": "2025-10-23",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Amazon",
+      "description": "AMZN MKTP US*2K4J91",
+      "difficulty_tag": "AMBIGUOUS_MERCHANT",
+      "expected_coa_code": "6700",
+      "transaction_id": "129e0068-273a-e9a3-72c7-5b2f0166c165"
+    },
+    {
+      "amount": "-603.0100",
+      "booked_date": "2025-12-21",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Google Ads",
+      "description": "GOOGLE ADS BILLING",
+      "difficulty_tag": null,
+      "expected_coa_code": "6600",
+      "transaction_id": "183b77c8-8862-df8c-8485-4b172b63885f"
+    },
+    {
+      "amount": "-2850.0000",
+      "booked_date": "2025-11-01",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "WeWork",
+      "description": "WEWORK MONTHLY MEMBERSHIP",
+      "difficulty_tag": null,
+      "expected_coa_code": "6300",
+      "transaction_id": "194a52e6-f2e8-bfa4-5882-2c6fed0d4f8c"
+    },
+    {
+      "amount": "-87.5000",
+      "booked_date": "2025-11-05",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Slack",
+      "description": "SLACK TECHNOLOGIES BILLING",
+      "difficulty_tag": null,
+      "expected_coa_code": "6000",
+      "transaction_id": "199d7f4a-65ca-e57d-eb96-5f64039c7569"
+    },
+    {
+      "amount": "-817.6000",
+      "booked_date": "2025-11-08",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Reed and Foster",
+      "description": "REED FOSTER LEGAL FEES",
+      "difficulty_tag": null,
+      "expected_coa_code": "6800",
+      "transaction_id": "223ba778-6da8-02a2-48c5-992ce4a9cc65"
+    },
+    {
+      "amount": "-96.0000",
+      "booked_date": "2025-12-09",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Google Workspace",
+      "description": "GOOGLE WORKSPACE BILLING",
+      "difficulty_tag": null,
+      "expected_coa_code": "6000",
+      "transaction_id": "2ca42a6e-3709-a919-f2ac-53e7a5995f3a"
+    },
+    {
+      "amount": "-652.9400",
+      "booked_date": "2025-12-22",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Meta Platforms",
+      "description": "META ADS BILLING",
+      "difficulty_tag": null,
+      "expected_coa_code": "6600",
+      "transaction_id": "320cbb86-186e-8b1d-38da-3695c6aa8fdc"
+    },
+    {
+      "amount": "-5000.0000",
+      "booked_date": "2025-02-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER TO SAVINGS *9082",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1010",
+      "transaction_id": "34a9ebb5-8cd6-9eed-48e9-27d8f4ad4f92"
+    },
+    {
+      "amount": "-2850.0000",
+      "booked_date": "2025-12-01",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "WeWork",
+      "description": "WEWORK MONTHLY MEMBERSHIP",
+      "difficulty_tag": null,
+      "expected_coa_code": "6300",
+      "transaction_id": "39c2a71e-9730-9eee-c1ad-725c3bdc0d75"
+    },
+    {
+      "amount": "-654.5400",
+      "booked_date": "2025-11-07",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Amazon Web Services",
+      "description": "AWS CLOUD SERVICES",
+      "difficulty_tag": null,
+      "expected_coa_code": "6000",
+      "transaction_id": "4415d149-524e-64d9-fd74-d8da8f7af346"
+    },
+    {
+      "amount": "-25.3500",
+      "booked_date": "2025-12-19",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Blue Bottle Coffee",
+      "description": "BLUE BOTTLE COFFEE",
+      "difficulty_tag": null,
+      "expected_coa_code": "6500",
+      "transaction_id": "44215c6c-2ecb-6ad9-5c54-8fdaeebe0ba0"
+    },
+    {
+      "amount": "-5000.0000",
+      "booked_date": "2025-09-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER TO SAVINGS *9082",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1010",
+      "transaction_id": "4546340c-7291-6fef-3fe1-dfc3f46770c2"
+    },
+    {
+      "amount": "-56.1000",
+      "booked_date": "2025-12-27",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Chipotle",
+      "description": "CHIPOTLE ONLINE ORDER",
+      "difficulty_tag": null,
+      "expected_coa_code": "6500",
+      "transaction_id": "47eae92c-4239-cada-5752-f8fc62789ec2"
+    },
+    {
+      "amount": "-388.5200",
+      "booked_date": "2025-01-06",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Amazon",
+      "description": "AMZN MKTP US*2K4J91",
+      "difficulty_tag": "AMBIGUOUS_MERCHANT",
+      "expected_coa_code": "6700",
+      "transaction_id": "48d06457-6658-47be-0844-7ea1df03c7da"
+    },
+    {
+      "amount": "-19012.3300",
+      "booked_date": "2025-11-28",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Gusto",
+      "description": "GUSTO PAYROLL RUN",
+      "difficulty_tag": null,
+      "expected_coa_code": "6200",
+      "transaction_id": "49bcf7b6-ffe4-93b5-a3ac-15a5a565457a"
+    },
+    {
+      "amount": "-752.4500",
+      "booked_date": "2025-11-13",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "United Airlines",
+      "description": "UNITED AIR TICKET",
+      "difficulty_tag": null,
+      "expected_coa_code": "6400",
+      "transaction_id": "4b9d31c9-a2b2-f107-cd5d-d59e9badb612"
+    },
+    {
+      "amount": "-33.6200",
+      "booked_date": "2025-11-25",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Blue Bottle Coffee",
+      "description": "BLUE BOTTLE COFFEE",
+      "difficulty_tag": null,
+      "expected_coa_code": "6500",
+      "transaction_id": "4c04beb7-4d3b-7922-6fb0-088b055e0ec2"
+    },
+    {
+      "amount": "-73.4300",
+      "booked_date": "2025-11-06",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Chipotle",
+      "description": "CHIPOTLE ONLINE ORDER",
+      "difficulty_tag": null,
+      "expected_coa_code": "6500",
+      "transaction_id": "4e1a86a2-b1cf-c447-189f-3fe51f3d2017"
+    },
+    {
+      "amount": "-35.0000",
+      "booked_date": "2025-11-26",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "First Cascade Bank",
+      "description": "MONTHLY SERVICE CHARGE",
+      "difficulty_tag": null,
+      "expected_coa_code": "6900",
+      "transaction_id": "52dc50c3-aac4-1403-7f2e-25e152b6a2eb"
+    },
+    {
+      "amount": "-3274.2000",
+      "booked_date": "2025-10-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Marta Reyes Design",
+      "description": "CONTRACTOR INVOICE PAYOUT",
+      "difficulty_tag": null,
+      "expected_coa_code": "6100",
+      "transaction_id": "57311b7f-cfd6-99d7-2a18-830e9920f318"
+    },
+    {
+      "amount": "-5000.0000",
+      "booked_date": "2025-05-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER TO SAVINGS *9082",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1010",
+      "transaction_id": "5908bda5-4d37-57d8-bf8c-143c5f6e2501"
+    },
+    {
+      "amount": "-18995.2400",
+      "booked_date": "2025-10-15",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Gusto",
+      "description": "GUSTO PAYROLL RUN",
+      "difficulty_tag": null,
+      "expected_coa_code": "6200",
+      "transaction_id": "592e535e-6876-34d3-d209-4971cf047f53"
+    },
+    {
+      "amount": "-310.2100",
+      "booked_date": "2025-11-11",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Marriott",
+      "description": "MARRIOTT HOTELS STAY",
+      "difficulty_tag": null,
+      "expected_coa_code": "6400",
+      "transaction_id": "59d791ab-c8f5-46a2-f567-40f95961c295"
+    },
+    {
+      "amount": "-96.0000",
+      "booked_date": "2025-10-09",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Google Workspace",
+      "description": "GOOGLE WORKSPACE BILLING",
+      "difficulty_tag": null,
+      "expected_coa_code": "6000",
+      "transaction_id": "5a71ea77-b2d7-4a1d-6f56-c6233f911590"
+    },
+    {
+      "amount": "-87.5000",
+      "booked_date": "2025-10-05",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Slack",
+      "description": "SLACK TECHNOLOGIES BILLING",
+      "difficulty_tag": null,
+      "expected_coa_code": "6000",
+      "transaction_id": "5ad24dd3-9532-a343-a2ae-0b37a8f2eff1"
+    },
+    {
+      "amount": "-5000.0000",
+      "booked_date": "2025-11-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER TO SAVINGS *9082",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1010",
+      "transaction_id": "5b553ebb-2c5c-aaab-5dcd-863e24c19712"
+    },
+    {
+      "amount": "5000.0000",
+      "booked_date": "2025-03-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER FROM CHECKING *4417",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1000",
+      "transaction_id": "658bce3f-14f6-ea3e-1de0-da472bf82d06"
+    },
+    {
+      "amount": "5000.0000",
+      "booked_date": "2025-01-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER FROM CHECKING *4417",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1000",
+      "transaction_id": "667e686f-ad92-76dd-af5a-0e8cecd092c1"
+    },
+    {
+      "amount": "-144.0000",
+      "booked_date": "2025-12-03",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Figma",
+      "description": "FIGMA MONTHLY SUBSCRIPTION",
+      "difficulty_tag": null,
+      "expected_coa_code": "6000",
+      "transaction_id": "6c4adb83-fdde-b72a-e3e6-573757c29bf4"
+    },
+    {
+      "amount": "-5000.0000",
+      "booked_date": "2025-07-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER TO SAVINGS *9082",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1010",
+      "transaction_id": "6e4dcf91-f7b0-fccb-29f0-7e63784f1230"
+    },
+    {
+      "amount": "5000.0000",
+      "booked_date": "2025-11-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER FROM CHECKING *4417",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1000",
+      "transaction_id": "7b827235-c163-78d3-ecd4-d5aefde7ed6e"
+    },
+    {
+      "amount": "-19003.9200",
+      "booked_date": "2025-12-15",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Gusto",
+      "description": "GUSTO PAYROLL RUN",
+      "difficulty_tag": null,
+      "expected_coa_code": "6200",
+      "transaction_id": "7ef1ddd9-b2ce-b3ed-baa4-6aa521d0d78f"
+    },
+    {
+      "amount": "-96.0000",
+      "booked_date": "2025-11-09",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Google Workspace",
+      "description": "GOOGLE WORKSPACE BILLING",
+      "difficulty_tag": null,
+      "expected_coa_code": "6000",
+      "transaction_id": "836d5609-3aa4-c0cf-ded2-004601416a2f"
+    },
+    {
+      "amount": "5000.0000",
+      "booked_date": "2025-06-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER FROM CHECKING *4417",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1000",
+      "transaction_id": "84f8c09f-0634-65ac-506b-58773234f85c"
+    },
+    {
+      "amount": "-5000.0000",
+      "booked_date": "2025-03-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER TO SAVINGS *9082",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1010",
+      "transaction_id": "86e045cc-886b-6a67-62e4-5b97ced25b33"
+    },
+    {
+      "amount": "-1017.4800",
+      "booked_date": "2025-12-05",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Google Ads",
+      "description": "GOOGLE ADS BILLING",
+      "difficulty_tag": null,
+      "expected_coa_code": "6600",
+      "transaction_id": "8fd84d04-af00-4849-255c-a91ba6ce5417"
+    },
+    {
+      "amount": "-35.0000",
+      "booked_date": "2025-12-26",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "First Cascade Bank",
+      "description": "MONTHLY SERVICE CHARGE",
+      "difficulty_tag": null,
+      "expected_coa_code": "6900",
+      "transaction_id": "98a9a405-db83-c5f2-78bd-af6f85f080bf"
+    },
+    {
+      "amount": "-5000.0000",
+      "booked_date": "2025-04-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER TO SAVINGS *9082",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1010",
+      "transaction_id": "996207e9-e3c6-95c2-d352-64c377cdc31c"
+    },
+    {
+      "amount": "-5000.0000",
+      "booked_date": "2025-08-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER TO SAVINGS *9082",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1010",
+      "transaction_id": "9abd8606-4fed-da91-3526-554ed7c37796"
+    },
+    {
+      "amount": "-5000.0000",
+      "booked_date": "2025-01-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER TO SAVINGS *9082",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1010",
+      "transaction_id": "9ed1d8b8-9fec-89ea-aefc-69c54eb850ce"
+    },
+    {
+      "amount": "-105.9600",
+      "booked_date": "2025-10-09",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Chipotle",
+      "description": "CHIPOTLE ONLINE ORDER",
+      "difficulty_tag": null,
+      "expected_coa_code": "6500",
+      "transaction_id": "a53efbda-05ac-4845-3f07-f8797e673e3c"
+    },
+    {
+      "amount": "-697.3200",
+      "booked_date": "2025-12-07",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Amazon Web Services",
+      "description": "AWS CLOUD SERVICES",
+      "difficulty_tag": null,
+      "expected_coa_code": "6000",
+      "transaction_id": "a7ca87cf-7174-54a5-3012-3e9867a69a63"
+    },
+    {
+      "amount": "5000.0000",
+      "booked_date": "2025-02-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER FROM CHECKING *4417",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1000",
+      "transaction_id": "a856a699-5172-b083-978c-dccb68c79bbf"
+    },
+    {
+      "amount": "5000.0000",
+      "booked_date": "2025-08-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER FROM CHECKING *4417",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1000",
+      "transaction_id": "b29c3813-b843-4d4f-828d-0856fd245fca"
+    },
+    {
+      "amount": "-455.8100",
+      "booked_date": "2025-10-06",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "United Airlines",
+      "description": "UNITED AIR TICKET",
+      "difficulty_tag": null,
+      "expected_coa_code": "6400",
+      "transaction_id": "b530f049-1304-1e81-750d-90b637b88a33"
+    },
+    {
+      "amount": "5000.0000",
+      "booked_date": "2025-09-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER FROM CHECKING *4417",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1000",
+      "transaction_id": "b5385b70-b523-6095-c4ea-d1b3e3918706"
+    },
+    {
+      "amount": "-5000.0000",
+      "booked_date": "2025-06-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER TO SAVINGS *9082",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1010",
+      "transaction_id": "b5b319b1-dfbf-bf0c-89ac-c1ea5160145b"
+    },
+    {
+      "amount": "-319.5400",
+      "booked_date": "2025-04-11",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Amazon",
+      "description": "AMZN MKTP US*2K4J91",
+      "difficulty_tag": "AMBIGUOUS_MERCHANT",
+      "expected_coa_code": "6700",
+      "transaction_id": "b90a71f0-3649-4973-9da4-780d6932e91a"
+    },
+    {
+      "amount": "-837.8100",
+      "booked_date": "2025-10-07",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Amazon Web Services",
+      "description": "AWS CLOUD SERVICES",
+      "difficulty_tag": null,
+      "expected_coa_code": "6000",
+      "transaction_id": "bd90c0e9-a42c-d874-0c1a-0611f362d747"
+    },
+    {
+      "amount": "5000.0000",
+      "booked_date": "2025-10-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER FROM CHECKING *4417",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1000",
+      "transaction_id": "bee99984-aa61-88f8-e2c3-96c42476256a"
+    },
+    {
+      "amount": "5000.0000",
+      "booked_date": "2025-05-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER FROM CHECKING *4417",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1000",
+      "transaction_id": "c579d2d9-d22a-342f-c9b7-311f10860599"
+    },
+    {
+      "amount": "-5000.0000",
+      "booked_date": "2025-12-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER TO SAVINGS *9082",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1010",
+      "transaction_id": "c6528205-b484-0e8a-08a3-af1318c5527b"
+    },
+    {
+      "amount": "-35.0000",
+      "booked_date": "2025-10-26",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "First Cascade Bank",
+      "description": "MONTHLY SERVICE CHARGE",
+      "difficulty_tag": null,
+      "expected_coa_code": "6900",
+      "transaction_id": "cb11017f-114d-98b3-897f-8c2811a9cd7a"
+    },
+    {
+      "amount": "-5000.0000",
+      "booked_date": "2025-10-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER TO SAVINGS *9082",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1010",
+      "transaction_id": "ccd835ac-73cc-39d3-f414-6af6d3ae6514"
+    },
+    {
+      "amount": "-667.6500",
+      "booked_date": "2025-12-27",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Meta Platforms",
+      "description": "META ADS BILLING",
+      "difficulty_tag": null,
+      "expected_coa_code": "6600",
+      "transaction_id": "d03ce182-4dd8-9af7-db2e-46ee286f5679"
+    },
+    {
+      "amount": "-17907.0600",
+      "booked_date": "2025-12-28",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Gusto",
+      "description": "GUSTO PAYROLL RUN",
+      "difficulty_tag": null,
+      "expected_coa_code": "6200",
+      "transaction_id": "d68cb3d8-966f-59e1-cdbe-2e5484831d22"
+    },
+    {
+      "amount": "5000.0000",
+      "booked_date": "2025-07-20",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Internal Transfer",
+      "description": "TRANSFER FROM CHECKING *4417",
+      "difficulty_tag": "INTERNAL_TRANSFER",
+      "expected_coa_code": "1000",
+      "transaction_id": "d8bc82da-108f-c2d9-bfe1-47b9d07c3133"
+    },
+    {
+      "amount": "-2850.0000",
+      "booked_date": "2025-10-01",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "WeWork",
+      "description": "WEWORK MONTHLY MEMBERSHIP",
+      "difficulty_tag": null,
+      "expected_coa_code": "6300",
+      "transaction_id": "dd1359c2-419b-5bb6-0e2e-ecbf7c11e67d"
+    },
+    {
+      "amount": "-2416.7700",
+      "booked_date": "2025-11-16",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Marta Reyes Design",
+      "description": "CONTRACTOR INVOICE PAYOUT",
+      "difficulty_tag": null,
+      "expected_coa_code": "6100",
+      "transaction_id": "e5748406-a6c7-0768-e802-933c11bb0f65"
+    },
+    {
+      "amount": "-4200.0000",
+      "booked_date": "2025-06-18",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Cascade Metal Works",
+      "description": "CASCADE METAL WORKS INVOICE",
+      "difficulty_tag": "UNUSUAL_VENDOR",
+      "expected_coa_code": "6800",
+      "transaction_id": "eb0de491-465f-9b04-9ca6-382dce49075d"
+    },
+    {
+      "amount": "-80.2600",
+      "booked_date": "2025-07-09",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Amazon",
+      "description": "AMZN MKTP US*2K4J91",
+      "difficulty_tag": "AMBIGUOUS_MERCHANT",
+      "expected_coa_code": "6700",
+      "transaction_id": "eeffb0c9-cb6d-ad1b-301c-a1f752d2d5d2"
+    },
+    {
+      "amount": "-18729.7800",
+      "booked_date": "2025-10-28",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Gusto",
+      "description": "GUSTO PAYROLL RUN",
+      "difficulty_tag": null,
+      "expected_coa_code": "6200",
+      "transaction_id": "f1ecc8b1-e9c5-7242-ee62-8295a2914a52"
+    },
+    {
+      "amount": "-144.0000",
+      "booked_date": "2025-10-03",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Figma",
+      "description": "FIGMA MONTHLY SUBSCRIPTION",
+      "difficulty_tag": null,
+      "expected_coa_code": "6000",
+      "transaction_id": "f268f0fb-0ab9-6a45-a4cc-624a4f0ad834"
+    },
+    {
+      "amount": "-96.0000",
+      "booked_date": "2025-09-09",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Google Workspace",
+      "description": "GOOGLE WORKSPACE BILLING",
+      "difficulty_tag": "SUBSCRIPTION_INCREASE",
+      "expected_coa_code": "6000",
+      "transaction_id": "f2a2735d-190f-3943-29a7-a426b85196c4"
+    },
+    {
+      "amount": "-87.5000",
+      "booked_date": "2025-12-05",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Slack",
+      "description": "SLACK TECHNOLOGIES BILLING",
+      "difficulty_tag": null,
+      "expected_coa_code": "6000",
+      "transaction_id": "fb8f6da0-ee71-8335-95e9-ae1aefa25ec5"
+    },
+    {
+      "amount": "-17868.1100",
+      "booked_date": "2025-11-15",
+      "categorization_status": "UNCATEGORIZED",
+      "counterparty": "Gusto",
+      "description": "GUSTO PAYROLL RUN",
+      "difficulty_tag": null,
+      "expected_coa_code": "6200",
+      "transaction_id": "fc07e1ba-d3e9-910b-ab1f-25f0c980beb9"
+    }
+  ]
+}

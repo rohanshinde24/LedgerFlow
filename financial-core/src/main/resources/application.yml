@@ -1,0 +1,31 @@
+spring:
+  application:
+    name: ledgerflow-financial-core
+  datasource:
+    url: ${LEDGERFLOW_DB_URL:jdbc:postgresql://localhost:5433/ledgerflow}
+    username: ${LEDGERFLOW_DB_USER:ledgerflow}
+    password: ${LEDGERFLOW_DB_PASSWORD:ledgerflow}
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate:
+        jdbc:
+          time_zone: UTC
+  flyway:
+    enabled: true
+
+server:
+  port: 8080
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui
+
+ledgerflow:
+  cors-allowed-origin: ${LEDGERFLOW_CORS_ORIGIN:http://localhost:3000}
+  dataset:
+    generate-on-startup: ${LEDGERFLOW_GENERATE_DATASET:false}
+    seeds: ${LEDGERFLOW_DATASET_SEEDS:20250101,20260601}
+    end-date: 2025-12-31
