@@ -15,3 +15,7 @@ __pycache__/
 .idea/
 .vscode/
 *.egg-info/
+
+# Internal design docs — local only
+SPEC.md
+HANDOFF.md
